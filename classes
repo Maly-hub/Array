@@ -1,0 +1,8 @@
+ var Classes = [
+    {name: 'Thuy', age: 21, address: 'Can Tho'},
+    {name: 'Phong', age: 21, address: 'Ca Mau'},
+    {name: 'Duy', age:21, address: 'Bac Lieu'},
+    {name: 'Tran', age: 21, address: 'Bac Lieu'},
+    {name: 'Phung', age: 21, address: 'Kien Giang'}
+];
+console.log(Classes);
